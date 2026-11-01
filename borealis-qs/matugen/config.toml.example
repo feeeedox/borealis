@@ -1,5 +1,0 @@
-# In ~/.config/matugen/config.toml einfügen:
-
-[templates.quickshell]
-input_path  = "~/.config/quickshell/matugen/quickshell.json"
-output_path = "~/.config/quickshell/colors.json"
