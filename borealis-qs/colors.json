@@ -1,0 +1,17 @@
+{
+  "background":           "#141318",
+  "surface":              "#141318",
+  "surfaceContainer":     "#201f25",
+  "surfaceContainerHigh": "#2b292f",
+  "foreground":            "#e5e1e9",
+  "foregroundDim":     "#c9c5d0",
+  "primary":              "#c9bfff",
+  "primaryText":            "#31285f",
+  "primaryContainer":     "#473f77",
+  "primaryContainerText":   "#e5deff",
+  "secondary":            "#c9c3dc",
+  "tertiary":             "#edb8cd",
+  "error":                "#ffb4ab",
+  "outline":              "#938f99",
+  "onSurfaceVariant":        "#c9c5d0"
+}
